@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("My first Jenkins practical");
 
         System.out.println("Build automation is working!");
+        System.out.println("Code updated on GitHub!");
 
     }
 }
